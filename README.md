@@ -1,2 +1,2 @@
-# Vagabond
-Vagabond Fan Page - practice HTML and CSS no frameworks
+# HTML-CSS-Only
+Fun Site with only HTML and CSS
